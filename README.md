@@ -1,4 +1,4 @@
-# 🏆 Amazon ML Hackathon 2024 - Live
+# 🏆 Amazon ML Hackathon 2024 - 🔴 Live
 
 ## 🚀 **Feature Extraction from Images**
 
